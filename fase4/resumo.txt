@@ -1,0 +1,20 @@
+Resumo da Análise de Vídeo
+Contagem de frames
+Total de frames: 3326
+Rostos detectados
+validos: 1353
+invalidos: 758
+Emoções detectadas
+fear: 151
+sad: 112
+happy: 404
+neutral: 272
+angry: 21
+surprise: 34
+disgust: 1
+Movimentos detectados
+movimento_anomalo: 2028
+braço_esquerdo_levantado: 316
+braço_direito_levantado: 222
+mão_direita_no_rosto: 185
+mão_esquerda_no_rosto: 20
